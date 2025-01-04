@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Saurav Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
-<img align="right" alt="data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final%20(2).webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" /> </p>
 
