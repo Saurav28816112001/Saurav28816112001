@@ -1,4 +1,3 @@
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Image.webp)
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
@@ -41,7 +40,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -52,6 +50,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb" alt="GitHub Streak" />
 </p>
-
-
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
